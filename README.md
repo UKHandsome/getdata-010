@@ -28,12 +28,12 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 	5. Export tidy data set with the average of each variable for each activity and each subject.
 
 	Let me show you some examples of variable names.
-
- Merge data set             	Tidy data set
- ----------------------------------
- subject            	volunteerID
- label              	activityName
- tBodyAcc-mean()-X  	timeBodyAccMeanX
- tGravityAcc-mean()-Y  	timeGravityAccMeanY
- fBodyAcc-mean()-Z  	frequencyBodyAccMeanZ
+	
+	Merge data set             	Tidy data set
+ 	-----------------------------------------------
+ 	subject				volunteerID
+ 	labe				activityName
+ 	tBodyAcc-mean()-		timeBodyAccMeanX
+ 	tGravityAcc-mean()-		timeGravityAccMeanY
+ 	fBodyAcc-mean()-		frequencyBodyAccMeanZ
 
