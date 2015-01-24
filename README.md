@@ -7,7 +7,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 ## 2.Our goal
 Goal is an independent tidy data set with the average of each variable for each activity and each subject.
 
-## 3. Data SEt
+## 3. Data Set
 The dataset includes the following files:
 =========================================
 - 'README.txt'
@@ -25,7 +25,7 @@ We merge training and test data set together. Extracts mean and standard deviati
 (Grep mean,std). Use descriptive activity names and variable names. Finally, we export tidy data set with the average of each variable for each activity and each subject.
 
 ## 5. Run script
-   source("run_analysis.R")
-   downloadData()
-   runAnalysis()
+- source("run_analysis.R")
+- downloadData()
+- runAnalysis()
 
