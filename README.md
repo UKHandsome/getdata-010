@@ -5,9 +5,9 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 ## 2.Our goal
-	Goal is an independent tidy data set with the average of each variable for each activity and each subject.
+Goal is an independent tidy data set with the average of each variable for each activity and each subject.
 
 ## 3.How we process data
-	We merge training and test data set together. Extracts mean and standard deviation for each measurement.
+We merge training and test data set together. Extracts mean and standard deviation for each measurement.
 (Grep mean,std). Use descriptive activity names and variable names. Finally, we export tidy data set with the average of each variable for each activity and each subject.
 
